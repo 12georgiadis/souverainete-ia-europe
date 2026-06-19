@@ -2,6 +2,8 @@
 
 ## État des lieux 2024-2026
 
+*🇬🇧 [Read in English](en.md)*
+
 ---
 
 ## Résumé
