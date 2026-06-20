@@ -4,6 +4,8 @@
 
 *🇬🇧 [Read in English](en.md)*
 
+> Texte critique compagnon, sur le mot « souveraineté » lui-même : [« Souveraineté numérique » : critique d'un concept et lexiques alternatifs](https://github.com/12georgiadis/souverainete-numerique-critique).
+
 ---
 
 ## Résumé
