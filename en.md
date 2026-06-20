@@ -4,6 +4,8 @@
 
 *🇫🇷 [Version française](README.md)*
 
+> Companion critical text, on the word "sovereignty" itself (in French): [« Souveraineté numérique » : critique d'un concept et lexiques alternatifs](https://github.com/12georgiadis/souverainete-numerique-critique).
+
 ---
 
 ## Summary
